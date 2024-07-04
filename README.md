@@ -7,7 +7,7 @@ This project is a clone of the Myntra.com website, created using **HTML** and **
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [Contributing](#contributing)
 
 ## Overview
@@ -32,8 +32,8 @@ The Myntra Clone project replicates the basic design and layout of the Myntra we
 ## Usage
 Open `index.html` in your preferred web browser to view the website.
 
-## Screenshots
-![Home Page]("/Images/Myntra-Clone-Screenshot.png")
+## Screenshot
+![Home Page](Images/Myntra-Clone-Screenshot.png)
 
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request.
